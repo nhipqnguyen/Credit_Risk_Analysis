@@ -5,39 +5,39 @@
 ## Results
 - Below is the balanced accuracy score and the precision and recall scores of the Naive Randommodels Oversampling model :
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/balanced_accuracy_score_Naive_Random.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/balanced_accuracy_score_Naive_Random.png)
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/metrics_Naive_Random.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/metrics_Naive_Random.png)
 
 - Below is the balanced accuracy score and the precision and recall scores of the SMOTE Oversampling model :
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/balanced_accuracy_score_SMOTE.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/balanced_accuracy_score_SMOTE.png)
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/metrics_SMOTE.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/metrics_SMOTE.png)
 
 - Below is the balanced accuracy score and the precision and recall scores of the Cluster Centroids Undersampling model :
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/balanced_accuracy_score_ClusterCentroids.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/balanced_accuracy_score_ClusterCentroids.png)
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/metrics_ClusterCentroids.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/metrics_ClusterCentroids.png)
 
 - Below is the balanced accuracy score and the precision and recall scores of the SMOTEENN model :
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/balanced_accuracy_score_SMOTEENN.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/balanced_accuracy_score_SMOTEENN.png)
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/metrics_SMOTEENN.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/metrics_SMOTEENN.png)
 
 - Below is the balanced accuracy score and the precision and recall scores of the Balanced Random Forest model :
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/balanced_accuracy_score_Balanced_Random_Forest.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/balanced_accuracy_score_Balanced_Random_Forest.png)
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/metrics_Balanced_Random_Forest.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/metrics_Balanced_Random_Forest.png)
 
 - Below is the balanced accuracy score and the precision and recall scores of the Easy Ensemble AdaBoost model :
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/balanced_accuracy_score_Easy_Ensemble_AdaBoost.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/balanced_accuracy_score_Easy_Ensemble_AdaBoost.png)
 
-  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/analysis/metrics_Easy_Ensemble_AdaBoost.png)
+  !(https://github.com/nhipqnguyen/Credit_Risk_Analysis/blob/main/Analysis/metrics_Easy_Ensemble_AdaBoost.png)
 
 
 ## Summary
